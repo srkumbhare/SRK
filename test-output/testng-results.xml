@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-01T23:14:17 IST" name="Default suite" finished-at="2024-06-01T23:15:04 IST" duration-ms="46589">
+    <groups>
+    </groups>
+    <test started-at="2024-06-01T23:14:17 IST" name="Default test" finished-at="2024-06-01T23:15:04 IST" duration-ms="46589">
+      <class name="tests.WebTableTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.WebTableTest@5d0bf09b]" started-at="2024-06-01T23:14:17 IST" name="init" finished-at="2024-06-01T23:14:32 IST" duration-ms="14438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="ImportWebTable()[pri:0, instance:tests.WebTableTest@5d0bf09b]" started-at="2024-06-01T23:14:32 IST" name="ImportWebTable" finished-at="2024-06-01T23:15:01 IST" duration-ms="28656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImportWebTable -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.WebTableTest@5d0bf09b]" started-at="2024-06-01T23:15:01 IST" name="closeBrowser" finished-at="2024-06-01T23:15:04 IST" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.WebTableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
