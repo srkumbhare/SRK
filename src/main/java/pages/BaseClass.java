@@ -1,7 +1,7 @@
 package pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//This is Base Class
 public class BaseClass {
 	
 	public static WebDriver driver;

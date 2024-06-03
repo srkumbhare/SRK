@@ -1,5 +1,5 @@
 package tests;
-
+//This is WebTable Test Class
 import java.io.IOException;
 
 import org.testng.annotations.*;
